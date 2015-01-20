@@ -38,7 +38,7 @@ import com.mongodb.MongoCredential;
 import com.mongodb.MongoException;
 
 /**
- * @author Varun User Controller class
+ * User Controller class
  */
 @RestController
 public class UserController extends WebMvcConfigurerAdapter {
